@@ -1,0 +1,15 @@
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+C:\Users\Mir\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+Z:\LAN\Audio\calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+Z:\LAN\Audio\calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+Z:\LAN\Audio\calculator\Calculator\Calculator\obj\Debug\Calculator.xml
+Z:\LAN\Audio\calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
